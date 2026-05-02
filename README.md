@@ -5,6 +5,8 @@
 **Plataformas:** Instagram e Facebook  
 **Universo:** 28 organizações de proteção animal do litoral norte de Santa Catarina
 
+![Fluxo de funcionamento da mineração](fluxo_mineracao_ongs.png)
+
 ---
 
 ## 1. Contexto e Objetivo
